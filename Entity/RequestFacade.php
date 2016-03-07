@@ -28,6 +28,7 @@ class RequestFacade
     const REQUEST_INFLECT_TYPE = 'inflect';
     const REQUEST_LIMIT_TYPE = 'limit';
 
+    const CASE_IM = 'И'; // actual for pluralization requests.
     const CASE_ROD = 'Р';
     const CASE_DAT = 'Д';
     const CASE_VIN = 'В';
