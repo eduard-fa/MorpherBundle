@@ -1,5 +1,5 @@
 {
-  "name" : "vsavritsky/morpherbundle",
+  "name" : "eduard-fa/morpherbundle",
   "description" : "Morpher Webservice",
   "version" : "1.0.1",
   "type" : "symfony-bundle",
