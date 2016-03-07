@@ -37,7 +37,7 @@ class RequestFacade
     const CASE_GDE = 'М';
     const PLURAL = 'множественное';
 
-    private $cases = array(self::CASE_ROD, self::CASE_DAT, self::CASE_VIN, self::CASE_TVOR, self::CASE_PREDL, self::CASE_GDE);
+    private $cases = array(self::CASE_IM, self::CASE_ROD, self::CASE_DAT, self::CASE_VIN, self::CASE_TVOR, self::CASE_PREDL, self::CASE_GDE);
 
     public function __construct(EntityManager $entityManager, RequestExec $requestExec)
     {
